@@ -87,7 +87,20 @@ CCTV-17(HD),http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Conte
 ✈好消息2台,http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
 
 ✈海外测试,#genre#
+靖天資訊台,http://185.238.242.136:20000/hls/play/id/49.m3u8
+靖天歡樂,http://185.238.242.136:20000/hls/play/id/51.m3u8
+緯來體育,http://185.238.242.136:20000/hls/play/id/52.m3u8
+ANIMAX,http://185.238.242.136:20000/hls/play/id/59.m3u8
+幸福空間居家台,http://185.238.242.136:20000/hls/play/id/61.m3u8
+三立戲劇台,http://185.238.242.136:20000/hls/play/id/64.m3u8
+國興衛視,http://185.238.242.136:20000/hls/play/id/65.m3u8
 澳門蓮花,http://185.238.242.136:20000/hls/play/id/70.m3u8
+東森超視,http://185.238.242.136:20000/hls/play/id/80.m3u8
+八大戲劇台,http://185.238.242.136:20000/hls/play/id/81.m3u8
+公視,http://185.238.242.136:20000/hls/play/id/86.m3u8
+星衛娛樂台,http://185.238.242.136:20000/hls/play/id/89.m3u8
+CNEX紀實,http://185.238.242.136:20000/hls/play/id/91.m3u8
+VIUTV,http://185.238.242.136:20000/hls/play/id/72.m3u8
 MediaCorp 8,http://185.238.242.136:20000/hls/play/id/142.m3u8
 爆谷台,http://185.238.242.136:20000/hls/play/id/152.m3u8
 靖洋卡通台,http://185.238.242.136:20000/hls/play/id/348.m3u8

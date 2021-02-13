@@ -61,7 +61,6 @@ RTHK32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
 香港開電視,http://media.fantv.hk/m3u8/archive/channel2.m3u8
 C+頻道,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
 亞視本港台,https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
-無線經典台,http://185.238.242.136:20000/hls/play/id/1083.m3u8
 鳳凰中文,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/index.m3u8
 鳳凰資訊,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/index.m3u8
 鳳凰香港,http://125.89.166.215/live-hwcdn.utvlive.top/live/a4e8cf74196e40959485a9ef4c532d02/6286b2bbb78341cd9fa92c7b37ccc03c-1.m3u8
@@ -74,3 +73,13 @@ C+頻道,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
 壹新聞,http://stream.nexttv.com.tw/n001/hd/live.m3u8
 好消息1台,http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-3.m3u8
 好消息2台,http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
+
+海外测试,#genre#
+澳門蓮花,http://185.238.242.136:20000/hls/play/id/70.m3u8
+MediaCorp 8,http://185.238.242.136:20000/hls/play/id/142.m3u8
+爆谷台,http://185.238.242.136:20000/hls/play/id/152.m3u8
+靖洋卡通台,http://185.238.242.136:20000/hls/play/id/348.m3u8
+衛視西片,http://185.238.242.136:20000/hls/play/id/369.m3u8
+博斯無線Ⅱ,http://185.238.242.136:20000/hls/play/id/426.m3u8
+民視影劇,http://185.238.242.136:20000/hls/play/id/1023.m3u8
+無線經典台,http://185.238.242.136:20000/hls/play/id/1083.m3u8

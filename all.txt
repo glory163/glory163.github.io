@@ -60,13 +60,7 @@ CCTV-17(HD),http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Conte
 鳳凰資訊,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/index.m3u8
 鳳凰香港,http://125.89.166.215/live-hwcdn.utvlive.top/live/a4e8cf74196e40959485a9ef4c532d02/6286b2bbb78341cd9fa92c7b37ccc03c-1.m3u8
 亞視本港台,https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
-無線翡翠台,http://61.238.6.49:8000/bysid/1
-無線明珠台,http://61.238.6.49:8001/bysid/2
-無線J2台http://61.238.6.49:8001/bysid/82
-無線新聞台,http://61.238.6.49:8001/bysid/83
-無線財經資訊台,http://61.238.6.49:8001/bysid/85
-ViuTV6,http://61.238.6.49:8000/bysid/96
-ViuTV,http://61.238.6.49:8000/bysid/99
+C+頻道,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
 澳亚衛視,http://125.89.166.215/mastvnet-hwcdn.utvlive.top/4rlff1m/1024/live.m3u8
 澳視衛星,http://61.244.22.4/ch3/ch3.live/index.m3u8
 大愛一台(HD),https://pulltv1.wanfudaluye.com/live/tv1.m3u8

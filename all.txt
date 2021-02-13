@@ -95,12 +95,22 @@ ANIMAX,http://185.238.242.136:20000/hls/play/id/59.m3u8
 三立戲劇台,http://185.238.242.136:20000/hls/play/id/64.m3u8
 國興衛視,http://185.238.242.136:20000/hls/play/id/65.m3u8
 澳門蓮花,http://185.238.242.136:20000/hls/play/id/70.m3u8
+VIUTV,http://185.238.242.136:20000/hls/play/id/72.m3u8
 東森超視,http://185.238.242.136:20000/hls/play/id/80.m3u8
 八大戲劇台,http://185.238.242.136:20000/hls/play/id/81.m3u8
 公視,http://185.238.242.136:20000/hls/play/id/86.m3u8
 星衛娛樂台,http://185.238.242.136:20000/hls/play/id/89.m3u8
 CNEX紀實,http://185.238.242.136:20000/hls/play/id/91.m3u8
-VIUTV,http://185.238.242.136:20000/hls/play/id/72.m3u8
+緯來電影,http://185.238.242.136:20000/hls/play/id/96.m3u8
+BBC Earth,http://185.238.242.136:20000/hls/play/id/97.m3u8
+高點娛樂,http://185.238.242.136:20000/hls/play/id/99.m3u8
+龍華經典,http://185.238.242.136:20000/hls/play/id/100.m3u8
+TLC,http://185.238.242.136:20000/hls/play/id/102.m3u8
+八大娛樂台,http://185.238.242.136:20000/hls/play/id/105.m3u8
+靖天日本台,http://185.238.242.136:20000/hls/play/id/108.m3u8
+國家地理-悠人,http://185.238.242.136:20000/hls/play/id/114.m3u8
+NHK World Japan,http://185.238.242.136:20000/hls/play/id/117.m3u8
+緯來體育,http://185.238.242.136:20000/hls/play/id/118.m3u8
 MediaCorp 8,http://185.238.242.136:20000/hls/play/id/142.m3u8
 爆谷台,http://185.238.242.136:20000/hls/play/id/152.m3u8
 靖洋卡通台,http://185.238.242.136:20000/hls/play/id/348.m3u8

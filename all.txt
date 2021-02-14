@@ -99,5 +99,4 @@ CCTV-17(HD),http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Conte
 ✈astroAEC,http://50.7.222.130:8278/streams/d/Aec1511/playlist.m3u8
 ✈astro双星,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 ✈mediacorp 8,http://50.7.222.130:8278/streams/d/Channel8HD/playlist.m3u8
-✈天映频道,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 ✈天映经典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8

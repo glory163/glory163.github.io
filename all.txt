@@ -100,3 +100,12 @@ CCTV-17(HD),http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Conte
 ✈astro双星,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 ✈mediacorp 8,http://50.7.222.130:8278/streams/d/Channel8HD/playlist.m3u8
 ✈天映经典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+
+✈NTDTV,#genre#
+新唐人加东,https://live.ntdimg.com/mllive860/playlist.m3u8
+新唐人加西,https://live.ntdimg.com/cwlive220/playlist.m3u8
+新唐人旧金山,https://live.ntdimg.com/sflive990/playlist.m3u8
+新唐人美东,https://live.ntdimg.com/live400/playlist.m3u8
+新唐人美西,https://live.ntdimg.com/uwlive990/playlist.m3u8
+新唐人亚太,https://live.ntdimg.com/aplive200/playlist.m3u8
+新唐人中国,https://live2.ntdimg.com/cnlive/playlist.m3u8

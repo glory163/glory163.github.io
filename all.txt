@@ -56,6 +56,13 @@ CCTV-17(HD),http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Conte
 港澳,#genre#
 有線新聞台,http://125.89.166.215/live-hwcdn.utvlive.top/live/fe19cd44717842fea90503d10aa7bab9/543b4d76d8614cf49194abe9db521736.m3u8
 有線財經資訊台,http://125.89.166.215/live-hwcdn.utvlive.top/live/0a5615586f6d450d889e1fe76fcb0f4d/ac715369d4ca49f094ef2cba593f8b19.m3u8
+✈無線翡翠台,http://93.190.139.36:8278/streams/d/jade_twn/playlist.m3u8
+✈無線明珠台,http://93.190.139.36:8278/streams/d/pearl_twn/playlist.m3u8
+✈無線J2,http://93.190.139.36:8278/streams/d/j2_twn/playlist.m3u8
+✈無線新聞台,http://93.190.139.36:8278/streams/d/inews_twn/playlist.m3u8
+✈無線財經資訊台,http://93.190.139.36:8278/streams/d/tvbcaijing_twn/playlist.m3u8
+✈ViuTV,http://93.190.139.36:8278/streams/d/9ae6d37d9a/playlist.m3u8
+✈ViuTV6,http://93.190.139.36:8278/streams/d/viutv6_twn/playlist.m3u8
 ✈有線直播新聞台,http://teslagram.com/live/channel_110.m3u8
 ✈RTHK31,https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
 ✈RTHK32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8

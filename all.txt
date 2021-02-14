@@ -112,7 +112,18 @@ TLC,http://185.238.242.136:20000/hls/play/id/102.m3u8
 NHK World Japan,http://185.238.242.136:20000/hls/play/id/117.m3u8
 緯來體育,http://185.238.242.136:20000/hls/play/id/118.m3u8
 MediaCorp 8,http://185.238.242.136:20000/hls/play/id/142.m3u8
+Channel V,http://185.238.242.136:20000/hls/play/id/151.m3u8
 爆谷台,http://185.238.242.136:20000/hls/play/id/152.m3u8
+SkySportsF1,http://185.238.242.136:20000/hls/play/id/182.m3u8
+SkySportsNFL，http://185.238.242.136:20000/hls/play/id/183.m3u8
+medici-arts,http://185.238.242.136:20000/hls/play/id/188.m3u8
+寰宇綜合,http://185.238.242.136:20000/hls/play/id/190.m3u8
+EyeTV戲劇,http://185.238.242.136:20000/hls/play/id/191.m3u8
+AFN,http://185.238.242.136:20000/hls/play/id/195.m3u8
+KBS2,http://185.238.242.136:20000/hls/play/id/250.m3u8
+SBS,http://185.238.242.136:20000/hls/play/id/252.m3u8
+SBSfunE,http://185.238.242.136:20000/hls/play/id/254.m3u8
+KBS24,http://185.238.242.136:20000/hls/play/id/260.m3u8
 靖洋卡通台,http://185.238.242.136:20000/hls/play/id/348.m3u8
 衛視西片,http://185.238.242.136:20000/hls/play/id/369.m3u8
 博斯無線Ⅱ,http://185.238.242.136:20000/hls/play/id/426.m3u8

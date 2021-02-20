@@ -27,7 +27,7 @@ CCTV-17(HD),http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Conte
 广东卫视(HD),http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=bestzb&Contentid=5000000010000030417&livemode=1&stbId=2
 深圳卫视(HD),http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=bestzb&Contentid=5000000010000024026&livemode=1&stbId=2
 东南卫视(HD),http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=bestzb&Contentid=5000000001000005829&livemode=1&stbId=2
-厦门卫视(HD),http://cstvalic.v.myalicdn.com/cstv/xiamen_1/index.m3u8
+厦门卫视(HD),http://xiamencncc.v.wscdns.com/xiamen/xiamen_1/index.m3u8
 亚旅卫视(HD),http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
 北京卫视(HD),http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000021288&livemode=1&stbId=2
 天津卫视(HD),http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000003475&livemode=1&stbId=2
@@ -94,11 +94,9 @@ CCTV-17(HD),http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Conte
 ✈好消息2台,http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
 ✈astro小太阳,http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 ✈astro全佳,http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
-✈astro华丽,http://50.7.222.130:8278/streams/d/Wlt/playlist.m3u8
-✈astro欢喜,http://50.7.222.130:8278/streams/d/Huahee/playlist.m3u8
-✈astroAEC,http://50.7.222.130:8278/streams/d/Aec1511/playlist.m3u8
 ✈astro双星,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
-✈mediacorp 8,http://50.7.222.130:8278/streams/d/Channel8HD/playlist.m3u8
+✈AOD HD,http://50.7.161.82:8278/streams/d/AodHD/playlist.m3u8
+✈KIX,http://50.7.161.82:8278/streams/d/KiX/playlist.m3u8
 ✈天映经典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 
 ✈NTDTV,#genre#

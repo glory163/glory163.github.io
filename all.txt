@@ -56,23 +56,6 @@ CCTV-17(HD),http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Conte
 港澳台新馬,#genre#
 有線新聞台,http://125.89.166.215/live-hwcdn.utvlive.top/live/fe19cd44717842fea90503d10aa7bab9/543b4d76d8614cf49194abe9db521736.m3u8
 有線財經資訊台,http://125.89.166.215/live-hwcdn.utvlive.top/live/0a5615586f6d450d889e1fe76fcb0f4d/ac715369d4ca49f094ef2cba593f8b19.m3u8
-✈無線翡翠台,http://93.190.139.36:8278/streams/d/jade_twn/playlist.m3u8
-✈無線明珠台,http://93.190.139.36:8278/streams/d/pearl_twn/playlist.m3u8
-✈無線星河台,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
-✈無線J2,http://93.190.139.36:8278/streams/d/j2_twn/playlist.m3u8
-✈無線新聞台,http://93.190.139.36:8278/streams/d/inews_twn/playlist.m3u8
-✈無線財經資訊台,http://93.190.139.36:8278/streams/d/tvbcaijing_twn/playlist.m3u8
-✈ViuTV,http://93.190.139.36:8278/streams/d/9ae6d37d9a/playlist.m3u8
-✈ViuTV6,http://93.190.139.36:8278/streams/d/viutv6_twn/playlist.m3u8
-✈有線直播新聞台,http://teslagram.com/live/channel_110.m3u8
-✈RTHK31,https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
-✈RTHK32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
-✈香港開電視,http://media.fantv.hk/m3u8/archive/channel2.m3u8
-✈C+頻道,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
-✈now直播台,http://livetv.dnsfor.me/channel.3.m3u8
-✈now新聞台,http://livetv.dnsfor.me/channel.4.m3u8
-✈亞視本港台,https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
-✈創世電視,https://cdn.deepcore.online/hlsme/ctv_hk_1080.m3u8
 鳳凰中文,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/index.m3u8
 鳳凰資訊,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/index.m3u8
 鳳凰香港,http://125.89.166.215/live-hwcdn.utvlive.top/live/a4e8cf74196e40959485a9ef4c532d02/6286b2bbb78341cd9fa92c7b37ccc03c-1.m3u8
@@ -81,6 +64,18 @@ CCTV-17(HD),http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Conte
 大愛一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大愛二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 大愛海外台,https://pulltv3.wanfudaluye.com/live/tv3.m3u8
+✈無線新聞台,http://livetv.dnsfor.me/channel.10.m3u8
+✈無線財經資訊台,http://livetv.dnsfor.me/channel.11.m3u8
+✈有線直播新聞台,http://teslagram.com/live/channel_110.m3u8
+✈RTHK31,https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
+✈RTHK32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
+✈now直播台,http://livetv.dnsfor.me/channel.3.m3u8
+✈now新聞台,http://livetv.dnsfor.me/channel.4.m3u8
+✈nowSportsPrime,http://livetv.dnsfor.me/channel.12.m3u8
+✈香港開電視,http://media.fantv.hk/m3u8/archive/channel2.m3u8
+✈C+頻道,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
+✈亞視本港台,https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
+✈創世電視,https://cdn.deepcore.online/hlsme/ctv_hk_1080.m3u8
 ✈TVBS新聞,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 ✈台視新聞,http://seb.sason.top/sc/tsxw_fhd.m3u8
 ✈中視新聞,http://seb.sason.top/sc/zsxw_fhd.m3u8
@@ -92,12 +87,6 @@ CCTV-17(HD),http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Conte
 ✈壹新聞,http://stream.nexttv.com.tw/n001/hd/live.m3u8
 ✈好消息1台,http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-3.m3u8
 ✈好消息2台,http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
-✈astro小太阳,http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
-✈astro全佳,http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
-✈astro双星,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
-✈AOD HD,http://50.7.161.82:8278/streams/d/AodHD/playlist.m3u8
-✈KIX,http://50.7.161.82:8278/streams/d/KiX/playlist.m3u8
-✈天映经典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 
 ✈NTDTV,#genre#
 新唐人美东,https://live.ntdimg.com/live900/playlist.m3u8

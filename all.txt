@@ -119,31 +119,31 @@ BS朝日,https://cdn.us195.jpnettv.live/jptv/bsasahi_720/playlist.m3u8
 BS-TBS,https://cdn.us195.jpnettv.live/jptv/bstbs_720/playlist.m3u8
 BSテレ東,https://cdn.us195.jpnettv.live/jptv/bsjapan_720/playlist.m3u8
 BSフジ,https://cdn.us195.jpnettv.live/jptv/bsfuji_720/playlist.m3u8
-NHK-BS1,https://cdn.jpth10.jpnettv.live/jptv/nhkbs1_720/playlist.m3u8
-NHK-BSP,https://cdn.jpth10.jpnettv.live/jptv/bspremium_720/playlist.m3u8
-スターチャンネル1,https://cdn.jpth10.jpnettv.live/jptv/starch1_720/playlist.m3u8
-スターチャンネル2,https://cdn.jpth10.jpnettv.live/jptv/starch2_720/playlist.m3u8
-スターチャンネル3,https://cdn.jpth10.jpnettv.live/jptv/starch3_720/playlist.m3u8
-BSアニマックス,https://cdn.jpth10.jpnettv.live/jptv/janimax_720/playlist.m3u8
-FOX,https://cdn.jpth10.jpnettv.live/jptv/jfox/playlist.m3u8
-BS釣りビジョン,https://cdn.jpth10.jpnettv.live/jptv/Fishing_broadcasting/playlist.m3u8
-WOWOWシネフィル,https://cdn.jpth10.jpnettv.live/jptv/cinefil_wowow_720/playlist.m3u8
-日本映画専門チャンネル,https://cdn.jpth10.jpnettv.live/jptv/igasennmonn_720/playlist.m3u8
-東映チャンネル,https://cdn.jpth10.jpnettv.live/jptv/TOA/playlist.m3u8
-衛星劇場,https://cdn.jpth10.jpnettv.live/jptv/gekijjyou/playlist.m3u8
-チャンネルNEKO,https://cdn.jpth10.jpnettv.live/jptv/Neco/playlist.m3u8
-ムービープラス,https://cdn.jpth10.jpnettv.live/jptv/movieplus/playlist.m3u8
-スカイA,https://cdn.jpth10.jpnettv.live/jptv/Sky_A/playlist.m3u8
-GAORA SPORTS,https://cdn.jpth10.jpnettv.live/jptv/GaoRa/playlist.m3u8
-日テレジータス,https://cdn.jpth10.jpnettv.live/jptv/japan_tv_G/playlist.m3u8
-FamilyTheater,https://cdn.jpth10.jpnettv.live/jptv/familytheater/playlist.m3u8
-MTV,https://cdn.jpth10.jpnettv.live/jptv/mtv/playlist.m3u8
-キッズステーション,https://cdn.jpth10.jpnettv.live/jptv/jkids/playlist.m3u8
-カートゥーンネットワーク,https://cdn.jpth10.jpnettv.live/jptv/cartoon_network/playlist.m3u8
-ディズニージュニア,https://cdn.jpth10.jpnettv.live/jptv/disney_junior/playlist.m3u8
-Discovery,https://cdn.jpth10.jpnettv.live/jptv/jdiscovery/playlist.m3u8
-アニマルプレネット,https://cdn.jpth10.jpnettv.live/jptv/Animal/playlist.m3u8
-National Geographic,https://cdn.jpth10.jpnettv.live/jptv/National_geographic/playlist.m3u8
+NHK-BS1,https://cdn.us195.jpnettv.live/jptv/nhkbs1_720/playlist.m3u8
+NHK-BSP,https://cdn.us195.jpnettv.live/jptv/bspremium_720/playlist.m3u8
+スターチャンネル1,https://cdn.us195.jpnettv.live/jptv/starch1_720/playlist.m3u8
+スターチャンネル2,https://cdn.us195.jpnettv.live/jptv/starch2_720/playlist.m3u8
+スターチャンネル3,https://cdn.us195.jpnettv.live/jptv/starch3_720/playlist.m3u8
+BSアニマックス,https://cdn.us195.jpnettv.live/jptv/janimax_720/playlist.m3u8
+FOX,https://cdn.us195.jpnettv.live/jptv/jfox/playlist.m3u8
+BS釣りビジョン,https://cdn.us195.jpnettv.live/jptv/Fishing_broadcasting/playlist.m3u8
+WOWOWシネフィル,https://cdn.us195.jpnettv.live/jptv/cinefil_wowow_720/playlist.m3u8
+日本映画専門チャンネル,https://cdn.us195.jpnettv.live/jptv/igasennmonn_720/playlist.m3u8
+東映チャンネル,https://cdn.us195.jpnettv.live/jptv/TOA/playlist.m3u8
+衛星劇場,https://cdn.us195.jpnettv.live/jptv/gekijjyou/playlist.m3u8
+チャンネルNEKO,https://cdn.us195.jpnettv.live/jptv/Neco/playlist.m3u8
+ムービープラス,https://cdn.us195.jpnettv.live/jptv/movieplus/playlist.m3u8
+スカイA,https://cdn.us195.jpnettv.live/jptv/Sky_A/playlist.m3u8
+GAORA SPORTS,https://cdn.us195.jpnettv.live/jptv/GaoRa/playlist.m3u8
+日テレジータス,https://cdn.us195.jpnettv.live/jptv/japan_tv_G/playlist.m3u8
+FamilyTheater,https://cdn.us195.jpnettv.live/jptv/familytheater/playlist.m3u8
+MTV,https://cdn.us195.jpnettv.live/jptv/mtv/playlist.m3u8
+キッズステーション,https://cdn.us195.jpnettv.live/jptv/jkids/playlist.m3u8
+カートゥーンネットワーク,https://cdn.us195.jpnettv.live/jptv/cartoon_network/playlist.m3u8
+ディズニージュニア,https://cdn.us195.jpnettv.live/jptv/disney_junior/playlist.m3u8
+Discovery,https://cdn.us195.jpnettv.live/jptv/jdiscovery/playlist.m3u8
+アニマルプレネット,https://cdn.us195.jpnettv.live/jptv/Animal/playlist.m3u8
+National Geographic,https://cdn.us195.jpnettv.live/jptv/National_geographic/playlist.m3u8
 CGNTV,http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
 
 ✈NTDTV,#genre#

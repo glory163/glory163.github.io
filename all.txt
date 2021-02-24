@@ -111,6 +111,7 @@ ELTA體育3台,rtmp://59.124.75.156/sat/md041
 民視新聞,https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 華視新聞,http://seb.sason.top/sc/hsxw_fhd.m3u8
 壹新聞,http://stream.nexttv.com.tw/n001/hd/live.m3u8
+原住民電視,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 好消息1台,http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-3.m3u8
 好消息2台,http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
 

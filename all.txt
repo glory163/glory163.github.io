@@ -101,6 +101,7 @@ MOMO綜合台,rtmp://59.124.75.156/sat/tv761
 東森超視,rtmp://59.124.75.156/sat/tv771
 博斯魅力,rtmp://59.124.75.156/sat/md011
 ELTA體育1台,rtmp://59.124.75.156/sat/md031
+ELTA體育3台,rtmp://59.124.75.156/sat/md041
 台視新聞,http://seb.sason.top/sc/tsxw_fhd.m3u8
 中視新聞,http://seb.sason.top/sc/zsxw_fhd.m3u8
 東森新聞,http://seb.sason.top/sc/dsxw_fhd.m3u8

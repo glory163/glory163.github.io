@@ -100,6 +100,7 @@ TVBS新聞,rtmp://59.124.75.156/sat/tv551#http://seb.sason.top/sc/tvbsxw_fhd.m3u
 MOMO綜合台,rtmp://59.124.75.156/sat/tv761
 東森超視,rtmp://59.124.75.156/sat/tv771
 博斯魅力,rtmp://59.124.75.156/sat/md011
+博斯運動I,rtmp://59.124.75.156/sat/md021
 ELTA體育1台,rtmp://59.124.75.156/sat/md031
 ELTA體育3台,rtmp://59.124.75.156/sat/md041
 台視新聞,http://seb.sason.top/sc/tsxw_fhd.m3u8

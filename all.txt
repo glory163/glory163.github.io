@@ -124,18 +124,21 @@ ELTA體育3台,rtmp://59.124.75.156/sat/md041
 CGNTV,http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
 NHK华语视界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 NHK World Japan,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+NHK-E,http://redlabmcdn.s.llnwi.net/jp01/ryowa1/index.m3u8
 NHK-G,http://203.162.235.41:16903#http://redlabmcdn.s.llnwi.net/jp01/ryowa2/index.m3u8
 フジテレビ,http://203.162.235.41:16904#http://redlabmcdn.s.llnwi.net/jp01/ryowa7/index.m3u8
 日テレ,http://203.162.235.41:16905#http://redlabmcdn.s.llnwi.net/jp01/ryowa3/index.m3u8
 テレビ朝日,http://203.162.235.41:16906#http://redlabmcdn.s.llnwi.net/jp01/ryowa4/index.m3u8
+TBS,http://203.162.235.41:16907#http://redlabmcdn.s.llnwi.net/jp01/ryowa5/index.m3u8
+テレビ東京,http://203.162.235.41:16908#http://redlabmcdn.s.llnwi.net/jp01/ryowa6/index.m3u8
+NHK-BS1,http://203.162.235.41:16909
+NHK-BSP,http://203.162.235.41:16910
 BSフジ,http://203.162.235.41:16911
 BS日テレ,http://203.162.235.41:16912
 BS-TBS,http://203.162.235.41:16913
 BS朝日,http://203.162.235.41:16914
 BSテレ東http://203.162.235.41:16915
-NHK-E,http://redlabmcdn.s.llnwi.net/jp01/ryowa1/index.m3u8
-TBS,http://redlabmcdn.s.llnwi.net/jp01/ryowa5/index.m3u8
-テレビ東京,http://redlabmcdn.s.llnwi.net/jp01/ryowa6/index.m3u8
+WOWOW プライム,http://203.162.235.41:16916
 TOKYO-MX1,http://redlabmcdn.s.llnwi.net/jp01/ryowa8/index.m3u8
 SBS-Star,https://streaming-a-802.cdn.nextologies.com/SBS_18/playlist.m3u8
 SBS-Plus,https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8

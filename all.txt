@@ -111,59 +111,27 @@ ELTA體育3台,rtmp://59.124.75.156/sat/md041
 民視新聞,https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 華視新聞,http://seb.sason.top/sc/hsxw_fhd.m3u8
 壹新聞,http://stream.nexttv.com.tw/n001/hd/live.m3u8
-原住民電視,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 好消息1台,http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-3.m3u8
 好消息2台,http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
+原住民電視,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+華藏衛視,https://5fbd5b4f0d47e.streamlock.net/hwazanlivetv/live.stream/playlist.m3u8
+上德電視,http://flv.ccdntech.com/live/_definst_/mp4:vod150_Live/live/playlist.m3u8
+唯心衛視,https://5ddce30eb4b55.streamlock.net/wxtv/wxtv_now.stream/chunklist_w950731714.m3u8
 
 ✈日本,#genre#
 日テレNEWS24,https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
 ウェザーニュース,http://movie.mcas.jp/mcas/wn1_2/master.m3u8
+CGNTV,http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
 NHK华语视界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 NHK World Japan,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
-NHK-G,https://cdn.us195.jpnettv.live/jptv/kanto_nhk_g_540/playlist.m3u8
-NHK-E,https://cdn.us195.jpnettv.live/jptv/kanto_nhk_edu_540/playlist.m3u8
-日本テレビ,https://cdn.us195.jpnettv.live/jptv/kanto_nippon_540/playlist.m3u8
-テレビ朝日,https://cdn.us195.jpnettv.live/jptv/kanto_tv_asahi_540/playlist.m3u8
-TBS,https://cdn.us195.jpnettv.live/jptv/kanto_tbs_540/playlist.m3u8
-テレビ東京,https://cdn.us195.jpnettv.live/jptv/kanto_tv_tokyo_540/playlist.m3u8
-フジテレビ,https://cdn.us195.jpnettv.live/jptv/kanto_fuji_540/playlist.m3u8
-TOKYO-MX1,https://cdn.us195.jpnettv.live/jptv/kanto_tokyo_mx1_540/playlist.m3u8
-每日放送,https://cdn.us195.jpnettv.live/jptv/kansi_mbs_720/playlist.m3u8
-ABCテレビ,https://cdn.us195.jpnettv.live/jptv/kansi_abc_asahi_720/playlist.m3u8
-テレビ大阪,https://cdn.us195.jpnettv.live/jptv/kansi_tv_osaka_720/playlist.m3u8
-関西テレビ,https://cdn.us195.jpnettv.live/jptv/kansi_tv_720/playlist.m3u8
-読売テレビ,https://cdn.us195.jpnettv.live/jptv/kansi_yomiuri_720/playlist.m3u8
-BS日テレ,https://cdn.us195.jpnettv.live/jptv/bsnihontv_720/playlist.m3u8
-BS朝日,https://cdn.us195.jpnettv.live/jptv/bsasahi_720/playlist.m3u8
-BS-TBS,https://cdn.us195.jpnettv.live/jptv/bstbs_720/playlist.m3u8
-BSテレ東,https://cdn.us195.jpnettv.live/jptv/bsjapan_720/playlist.m3u8
-BSフジ,https://cdn.us195.jpnettv.live/jptv/bsfuji_720/playlist.m3u8
-NHK-BS1,https://cdn.us195.jpnettv.live/jptv/nhkbs1_720/playlist.m3u8
-NHK-BSP,https://cdn.us195.jpnettv.live/jptv/bspremium_720/playlist.m3u8
-スターチャンネル1,https://cdn.us195.jpnettv.live/jptv/starch1_720/playlist.m3u8
-スターチャンネル2,https://cdn.us195.jpnettv.live/jptv/starch2_720/playlist.m3u8
-スターチャンネル3,https://cdn.us195.jpnettv.live/jptv/starch3_720/playlist.m3u8
-BSアニマックス,https://cdn.us195.jpnettv.live/jptv/janimax_720/playlist.m3u8
-FOX,https://cdn.us195.jpnettv.live/jptv/jfox/playlist.m3u8
-BS釣りビジョン,https://cdn.us195.jpnettv.live/jptv/Fishing_broadcasting/playlist.m3u8
-WOWOWシネフィル,https://cdn.us195.jpnettv.live/jptv/cinefil_wowow_720/playlist.m3u8
-日本映画専門チャンネル,https://cdn.us195.jpnettv.live/jptv/igasennmonn_720/playlist.m3u8
-東映チャンネル,https://cdn.us195.jpnettv.live/jptv/TOA/playlist.m3u8
-衛星劇場,https://cdn.us195.jpnettv.live/jptv/gekijjyou/playlist.m3u8
-チャンネルNEKO,https://cdn.us195.jpnettv.live/jptv/Neco/playlist.m3u8
-ムービープラス,https://cdn.us195.jpnettv.live/jptv/movieplus/playlist.m3u8
-スカイA,https://cdn.us195.jpnettv.live/jptv/Sky_A/playlist.m3u8
-GAORA SPORTS,https://cdn.us195.jpnettv.live/jptv/GaoRa/playlist.m3u8
-日テレジータス,https://cdn.us195.jpnettv.live/jptv/japan_tv_G/playlist.m3u8
-FamilyTheater,https://cdn.us195.jpnettv.live/jptv/familytheater/playlist.m3u8
-MTV,https://cdn.us195.jpnettv.live/jptv/mtv/playlist.m3u8
-キッズステーション,https://cdn.us195.jpnettv.live/jptv/jkids/playlist.m3u8
-カートゥーンネットワーク,https://cdn.us195.jpnettv.live/jptv/cartoon_network/playlist.m3u8
-ディズニージュニア,https://cdn.us195.jpnettv.live/jptv/disney_junior/playlist.m3u8
-Discovery,https://cdn.us195.jpnettv.live/jptv/jdiscovery/playlist.m3u8
-アニマルプレネット,https://cdn.us195.jpnettv.live/jptv/Animal/playlist.m3u8
-National Geographic,https://cdn.us195.jpnettv.live/jptv/National_geographic/playlist.m3u8
-CGNTV,http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
+SBS Star,https://streaming-a-802.cdn.nextologies.com/SBS_18/playlist.m3u8
+SBS Plus,https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
+SBS International,https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
+SBS CJB,http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+EBS,http://ebsonair.ebs.co.kr:1935/ebs1familypc/familypc1m/playlist.m3u8
+EBS2,http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
+Arirang Korea,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+YTN,http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist.m3u8
 
 ✈NTDTV,#genre#
 新唐人美东,https://live.ntdimg.com/live900/playlist.m3u8

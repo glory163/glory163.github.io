@@ -96,20 +96,19 @@ CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/in
 
 港澳,#genre#
 有線新聞台,http://125.89.166.215/live-hwcdn.utvlive.top/live/fe19cd44717842fea90503d10aa7bab9/543b4d76d8614cf49194abe9db521736.m3u8
-有線財經資訊台,http://125.89.166.215/live-hwcdn.utvlive.top/live/0a5615586f6d450d889e1fe76fcb0f4d/ac715369d4ca49f094ef2cba593f8b19.m3u8
 鳳凰中文,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/index.m3u8
 鳳凰資訊,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/index.m3u8
 鳳凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8#http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
 澳亚衛視,http://125.89.166.215/mastvnet-hwcdn.utvlive.top/4rlff1m/1024/live.m3u8
 ✈澳視衛星,http://61.244.22.4/ch3/ch3.live/index.m3u8
 ✈澳門資訊,http://61.244.22.4/ch5/info_ch5.live/index.m3u8
-✈無線翡翠台,http://61.238.6.49:8000/bysid/1
-✈無線明珠台,http://61.238.6.49:8001/bysid/2
-✈無線J2台http://61.238.6.49:8001/bysid/82
+✈無線翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8#http://61.238.6.49:8000/bysid/1
+✈無線明珠台,https://cdn.hkdtmb.com/hls/84/index.m3u8#http://61.238.6.49:8001/bysid/2
+✈無線J2台,https://cdn.hkdtmb.com/hls/82/index.m3u8#http://61.238.6.49:8001/bysid/82
 ✈無線新聞台,http://livetv.dnsfor.me/channel.10.m3u8#http://61.238.6.49:8001/bysid/83
 ✈無線財經資訊台,http://livetv.dnsfor.me/channel.11.m3u8#http://61.238.6.49:8001/bysid/85
 ✈ViuTV6,http://61.238.6.49:8000/bysid/96
-✈ViuTV,http://61.238.6.49:8000/bysid/99
+✈ViuTV,https://cdn.hkdtmb.com/hls/99/index.m3u8#http://61.238.6.49:8000/bysid/99
 ✈有線直播新聞台,http://teslagram.com/live/channel_110.m3u8
 ✈RTHK31,https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
 ✈RTHK32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8

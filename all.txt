@@ -75,9 +75,9 @@ CHC家庭影院,http://117.71.37.17/live.aishang.ctlcdn.com/00000110240323_1/pla
 天津卫视,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000003475&livemode=1&stbId=2
 湖南卫视,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000032695&livemode=1&stbId=2
 湖北卫视,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000010355&livemode=1&stbId=2
-河南卫视,http://101.71.255.229:6610/zjhs/2/10153/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-河北卫视,http://117.71.37.17/live.aishang.ctlcdn.com/00000110240317_1/playlist.m3u8?CONTENTID=00000110240317_1
-吉林卫视,http://101.71.255.229:6610/zjhs/2/10149/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+河南卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225611/index.m3u8?fmt=ts2hls
+河北卫视,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=bestzb&Contentid=5000000006000040016&livemode=1&stbId=2
+吉林卫视,rtsp://183.252.166.199/PLTV/88888888/224/3221226792/48616745.smil
 黑龙江卫视,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001925&livemode=1&stbId=2
 辽宁卫视,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=bestzb&Contentid=5000000001000008940&livemode=1&stbId=2
 重庆卫视,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000018937&livemode=1&stbId=2
@@ -119,7 +119,7 @@ now新聞台,http://livetv.dnsfor.me/channel.4.m3u8
 nowSportsPrime,http://livetv.dnsfor.me/channel.12.m3u8
 香港開電視,http://media.fantv.hk/m3u8/archive/channel2.m3u8
 C+頻道,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
-亞視本港台,https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
+亞視A1,https://de035ceb0768225b04e9a007abe39fca.live.prod.hkatv.com/a1_cbr_lo.m3u8
 創世電視,https://cdn.deepcore.online/hlsme/ctv_hk_1080.m3u8
 有線18台,https://flv3948069e.live.126.net/live/7664a97ab4a9f47650ccde6d7ff18c87.flv
 

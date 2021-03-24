@@ -123,7 +123,7 @@ C+頻道,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
 創世電視,https://cdn.deepcore.online/hlsme/ctv_hk_1080.m3u8
 有線18台,https://flv3948069e.live.126.net/live/7664a97ab4a9f47650ccde6d7ff18c87.flv
 天映頻道,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
-天映經典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8#https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
+天映經典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8#https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic
 
 ✈台湾,#genre#
 民視HD,rtmp://59.124.75.156/sat/tv051

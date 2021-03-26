@@ -107,10 +107,10 @@ CHC家庭影院,http://117.71.37.17/live.aishang.ctlcdn.com/00000110240323_1/pla
 無線明珠台,https://cdn.hkdtmb.com/hls/84/index.m3u8#http://61.238.6.49:8001/bysid/2
 無線J2台,https://cdn.hkdtmb.com/hls/82/index.m3u8#http://61.238.6.49:8001/bysid/82
 無線星河台,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
-無線新聞台,http://livetv.dnsfor.me/channel.10.m3u8#http://61.238.6.49:8001/bysid/83
+無線新聞台,http://livetv.dnsfor.me/channel.10.m3u8#http://61.238.6.49:8001/bysid/83#http://93.190.139.36:8278/streams/d/inews_twn/playlist.m3u8
 無線財經資訊台,http://livetv.dnsfor.me/channel.11.m3u8#http://61.238.6.49:8001/bysid/85
 ViuTV6,http://61.238.6.49:8000/bysid/96
-ViuTV,https://cdn.hkdtmb.com/hls/99/index.m3u8#http://61.238.6.49:8000/bysid/99
+ViuTV,https://cdn.hkdtmb.com/hls/99/index.m3u8#http://61.238.6.49:8000/bysid/99#http://93.190.139.36:8278/streams/d/viu_twn/playlist.m3u8
 有線直播新聞台,http://teslagram.com/live/channel_110.m3u8
 RTHK31,https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
 RTHK32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
@@ -131,6 +131,9 @@ Channel U,http://101.127.128.44:9981/stream/channelid/1677198652
 Channel New Asia,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 Vasantham,http://101.127.128.44:9981/stream/channelid/1434561421
 Suria,http://101.127.128.44:9981/stream/channelid/1785002562
+Astro 小太阳,http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
+Astro 全佳,http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
+Astro 双星,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 Astro Ceria,http://ts.lemmovie.com/ec85b2d2-8539-4d40-bfc2-64abcf7e8984.m3u8
 Astro AEC,http://ts.lemmovie.com/e47300a4-e511-484f-b6dd-98de1483b71c.m3u8
 Astro Malaysia,http://ts.lemmovie.com/55a7edc5-112d-47ce-92bd-d242cf580f46.m3u8

@@ -72,7 +72,7 @@ CBN幸福娱乐,http://home.lpfcdn.com:4000/udp/235.254.198.195:7980
 广东卫视,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=bestzb&Contentid=5000000010000030417&livemode=1&stbId=2
 深圳卫视,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=bestzb&Contentid=5000000010000024026&livemode=1&stbId=2
 东南卫视,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=bestzb&Contentid=5000000001000005829&livemode=1&stbId=2
-厦门卫视,http://xiamencncc.v.wscdns.com/xiamen/xiamen_1/index.m3u8
+厦门卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226964/index.m3u8
 海峡卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226977/index.m3u8
 亚旅卫视,http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
 北京卫视,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000021288&livemode=1&stbId=2
@@ -375,3 +375,8 @@ ASSP 1,http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_601&key=84797b799ae
 ASSP 2,http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_602&key=84797b799ae18d1b
 ASSP 3,http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_603&key=84797b799ae18d1b
 ASSP 4,http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_604&key=84797b799ae18d1b
+
+tvbus测试,,#genre#
+廣東體育,tvbus://7Lji1R32r9mP2JUzks2rpRwrSrNADbYRjRBsEpV8usFNWUp3FZ
+愛爾達影劇台,tvbus://8cgZ9N99yJeNMVbEhmWN7DJyudvajAzAyaos9f7HAbsJ5bMaT5
+愛爾達綜合台,tvbus://8gdtuAWJmA3zEfYW5cMC1sGCGURa3Hq18LHboXidYNhxeFyQtE

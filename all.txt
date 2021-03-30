@@ -375,8 +375,3 @@ ASSP 1,http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_601&key=84797b799ae
 ASSP 2,http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_602&key=84797b799ae18d1b
 ASSP 3,http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_603&key=84797b799ae18d1b
 ASSP 4,http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_604&key=84797b799ae18d1b
-
-tvbus测试,,#genre#
-廣東體育,tvbus://7Lji1R32r9mP2JUzks2rpRwrSrNADbYRjRBsEpV8usFNWUp3FZ
-愛爾達影劇台,tvbus://8cgZ9N99yJeNMVbEhmWN7DJyudvajAzAyaos9f7HAbsJ5bMaT5
-愛爾達綜合台,tvbus://8gdtuAWJmA3zEfYW5cMC1sGCGURa3Hq18LHboXidYNhxeFyQtE

@@ -179,6 +179,7 @@ ELTA體育3台,rtmp://59.124.75.156/sat/md041
 好消息2台,https://dqhxk7sbp7xog.cloudfront.net/osmflivech2.m3u8#https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8#http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
 希望電視,https://hcchinese.mmdlive.lldns.net/hcchinese/f3e5d4599ea94a56b2ab70d787c02cea/manifest.m3u8
 華藏衛視,https://5fbd5b4f0d47e.streamlock.net/hwazanlivetv/live.stream/playlist.m3u8
+佛衛慈悲台,https://btsu4k5-hisng.cdn.hinet.net/live/pool/btsLive2/hievent-hls/btsLive2.m3u8
 上德電視,http://flv.ccdntech.com/live/_definst_/mp4:vod150_Live/live/playlist.m3u8
 唯心衛視,https://5ddce30eb4b55.streamlock.net/wxtv/wxtv_now.stream/chunklist_w950731714.m3u8
 

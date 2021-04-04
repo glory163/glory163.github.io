@@ -84,7 +84,7 @@ CHC家庭影院,http://117.71.37.17/live.aishang.ctlcdn.com/00000110240323_1/pla
 四川卫视,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=bestzb&Contentid=5000000004000006119&livemode=1&stbId=2
 海南卫视,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=bestzb&Contentid=5000000004000006211&livemode=1&stbId=2
 贵州卫视,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=bestzb&Contentid=5000000004000025843&livemode=1&stbId=2
-云南卫视,https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8
+云南卫视,https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8#http://yntvpullhls.ynradio.com/live/yunnanweishi/playlist.m3u8
 内蒙古卫视,http://live.m2oplus.nmtv.cn/1/sd/live.m3u8
 新疆卫视,http://livehyw5.chinamcache.com/hyw/zb01.m3u8
 青海卫视,http://live.geermurmt.com/qhws/sd/live.m3u8

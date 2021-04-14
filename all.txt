@@ -107,6 +107,7 @@ CHC家庭影院,http://117.71.37.17/live.aishang.ctlcdn.com/00000110240323_1/pla
 無線明珠台,https://cdn.hkdtmb.com/hls/84/index.m3u8#http://61.238.6.49:8001/bysid/2#http://113.255.161.76:9981/stream/channelid/730870503
 無線J2台,https://cdn.hkdtmb.com/hls/82/index.m3u8#http://61.238.6.49:8001/bysid/82#http://113.255.161.76:9981/stream/channelid/688589876
 無線星河台,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+無線經典台,http://51.79.208.146:61980/myplay/c_58029/index.m3u8
 無線新聞台,http://livetv.dnsfor.me/channel.10.m3u8#http://61.238.6.49:8001/bysid/83#http://93.190.139.36:8278/streams/d/inews_twn/playlist.m3u8#http://113.255.161.76:9981/stream/channelid/489782037
 無線財經資訊台,http://livetv.dnsfor.me/channel.11.m3u8#http://61.238.6.49:8001/bysid/85#http://113.255.161.76:9981/stream/channelid/1243767692
 ViuTV6,http://61.238.6.49:8000/bysid/96#http://113.255.161.76:9981/stream/channelid/1678030550

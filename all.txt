@@ -106,7 +106,6 @@ CHC家庭影院,http://117.71.37.17/live.aishang.ctlcdn.com/00000110240323_1/pla
 無線翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8#http://61.238.6.49:8000/bysid/1
 無線明珠台,https://cdn.hkdtmb.com/hls/84/index.m3u8#http://61.238.6.49:8001/bysid/2
 無線J2台,https://cdn.hkdtmb.com/hls/82/index.m3u8#http://61.238.6.49:8001/bysid/82
-無線星河台,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 無線新聞台,http://livetv.dnsfor.me/channel.10.m3u8#http://61.238.6.49:8001/bysid/83#http://93.190.139.36:8278/streams/d/inews_twn/playlist.m3u8
 無線財經資訊台,http://livetv.dnsfor.me/channel.11.m3u8#http://61.238.6.49:8001/bysid/85
 ViuTV6,http://61.238.6.49:8000/bysid/96
@@ -122,6 +121,9 @@ C+頻道,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
 創世電視,https://cdn.deepcore.online/hlsme/ctv_hk_1080.m3u8
 
 ✈新馬,#genre#
+無線星河台,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8#http://51.79.208.146:61980/myplay/c_58031/index.m3u8
+無線經典台,http://51.79.208.146:61980/myplay/c_58029/index.m3u8
+無線娛樂新聞台,http://51.79.208.146:61980/myplay/c_58030/index.m3u8
 天映頻道,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 天映經典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8#http://51.79.208.146:61980/myplay/c_58030/index.m3u8
 Channel News Asia,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
@@ -135,7 +137,7 @@ Astro 全佳,http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
 Astro 双星,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 Astro 欢喜,http://51.79.208.146:61980/myplay/c_58026/index.m3u8
 Astro 华丽,http://185.180.221.194:8278/streams/d/Wlt/playlist.m3u8
-AOD HD,http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
+Astro AOD,http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
 Astro AEC,http://ts.lemmovie.com/e47300a4-e511-484f-b6dd-98de1483b71c.m3u8
 Astro Ceria,http://ts.lemmovie.com/ec85b2d2-8539-4d40-bfc2-64abcf7e8984.m3u8
 Astro AURA,http://51.79.208.146:61980/myplay/c_58036/index.m3u8

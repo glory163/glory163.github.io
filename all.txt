@@ -47,6 +47,7 @@ CCTV-17,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid
 卫生健康,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=wsjk
 央视台球,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=ystq
 女性时尚,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=nxss
+文化精品,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=ysjp
 怀旧剧场,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=hjjc#rtmp://ivi.bupt.edu.cn:1935/livetv/hjjctv
 第一剧场,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=dyjc#rtmp://ivi.bupt.edu.cn:1935/livetv/dyjctv
 风云剧场,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=fyjc#rtmp://ivi.bupt.edu.cn:1935/livetv/fyjctv
@@ -100,16 +101,16 @@ CHC家庭影院,http://117.71.37.17/live.aishang.ctlcdn.com/00000110240323_1/pla
 鳳凰中文,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/index.m3u8
 鳳凰資訊,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/index.m3u8
 鳳凰香港,http://93.190.139.36:8278/streams/d/hkphoenix_twn/playlist.m3u8#http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
-澳亚衛視,http://125.89.166.215/mastvnet-hwcdn.utvlive.top/4rlff1m/1024/live.m3u8
+澳亚衛視,http://mastvnet-hwcdn.utvlive.top/4rlff1m/1024/live.m3u8
 澳視衛星,http://61.244.22.4/ch3/ch3.live/index.m3u8
 澳門資訊,http://61.244.22.4/ch5/info_ch5.live/index.m3u8
-無線翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8#http://61.238.6.49:8000/bysid/1
-無線明珠台,https://cdn.hkdtmb.com/hls/84/index.m3u8#http://61.238.6.49:8001/bysid/2
-無線J2台,https://cdn.hkdtmb.com/hls/82/index.m3u8#http://61.238.6.49:8001/bysid/82
-無線新聞台,http://livetv.dnsfor.me/channel.10.m3u8#http://61.238.6.49:8001/bysid/83#http://93.190.139.36:8278/streams/d/inews_twn/playlist.m3u8
-無線財經資訊台,http://livetv.dnsfor.me/channel.11.m3u8#http://61.238.6.49:8001/bysid/85
-ViuTV6,http://61.238.6.49:8000/bysid/96
-ViuTV,https://cdn.hkdtmb.com/hls/99/index.m3u8#http://61.238.6.49:8000/bysid/99#http://93.190.139.36:8278/streams/d/viu_twn/playlist.m3u8
+無線翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8#http://61.238.6.49:8000/bysid/1#http://hls.globaliptv.ml/tvbjade.php
+無線明珠台,https://cdn.hkdtmb.com/hls/84/index.m3u8#http://61.238.6.49:8001/bysid/2#http://hls.globaliptv.ml/tvbpearl.php
+無線J2台,https://cdn.hkdtmb.com/hls/82/index.m3u8#http://61.238.6.49:8001/bysid/82#http://hls.globaliptv.ml/tvbj2.php
+無線新聞台,http://livetv.dnsfor.me/channel.10.m3u8#http://61.238.6.49:8001/bysid/83#http://93.190.139.36:8278/streams/d/inews_twn/playlist.m3u8#https://bcovlive-a.akamaihd.net/92d1fb6f11854eafb1b183f2565558c9/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8#http://ohyeah.gear.host/hktvb.php?id=1
+無線財經資訊台,http://livetv.dnsfor.me/channel.11.m3u8#http://61.238.6.49:8001/bysid/85#http://ohyeah.gear.host/hktvb.php?id=2
+ViuTV6,http://61.238.6.49:8000/bysid/96#http://hls.globaliptv.ml/viu96.php
+ViuTV,https://cdn.hkdtmb.com/hls/99/index.m3u8#http://61.238.6.49:8000/bysid/99#http://93.190.139.36:8278/streams/d/viu_twn/playlist.m3u8#http://hls.globaliptv.ml/viu99.php
 有線直播新聞台,http://teslagram.com/live/channel_110.m3u8
 RTHK31,https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
 RTHK32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
@@ -218,7 +219,7 @@ SBS-International,https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/S
 SBS-CJB,http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 EBS,http://ebsonair.ebs.co.kr:1935/ebs1familypc/familypc1m/playlist.m3u8
 EBS2,http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
-Arirang Korea,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+Arirang Korea,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8#https://streaming-a-802.cdn.nextologies.com/SBS_Arirang/playlist.m3u8
 YTN,http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist.m3u8
 
 ✈NTDTV,#genre#

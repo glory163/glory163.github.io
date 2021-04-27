@@ -122,11 +122,11 @@ C+頻道,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
 創世電視,https://cdn.deepcore.online/hlsme/ctv_hk_1080.m3u8
 
 ✈新馬,#genre#
-無線星河台,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8#http://51.79.208.146:61980/myplay/c_58031/index.m3u8
+無線星河台,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 無線經典台,http://51.79.208.146:61980/myplay/c_58029/index.m3u8
 無線娛樂新聞台,http://51.79.208.146:61980/myplay/c_58030/index.m3u8
 天映頻道,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
-天映經典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8#http://51.79.208.146:61980/myplay/c_58030/index.m3u8
+天映經典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 Channel News Asia,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 Channel 5,http://51.79.208.146:61980/myplay/c_10001/index.m3u8
 Channel 8,http://51.79.208.146:61980/myplay/c_10002/index.m3u8
@@ -136,7 +136,7 @@ Vasantham,http://51.79.208.146:61980/myplay/c_10005/index.m3u8
 Astro 小太阳,http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 Astro 全佳,http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
 Astro 双星,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
-Astro 欢喜,http://51.79.208.146:61980/myplay/c_58026/index.m3u8
+Astro 欢喜,http://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
 Astro 华丽,http://185.180.221.194:8278/streams/d/Wlt/playlist.m3u8
 Astro AOD,http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
 Astro AEC,http://ts.lemmovie.com/e47300a4-e511-484f-b6dd-98de1483b71c.m3u8

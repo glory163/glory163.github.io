@@ -131,7 +131,7 @@ Channel News Asia,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec9
 Channel 5,http://51.79.208.146:61980/myplay/c_10001/index.m3u8
 Channel 8,http://51.79.208.146:61980/myplay/c_10002/index.m3u8
 Channel U,http://51.79.208.146:61980/myplay/c_10003/index.m3u8
-Suria,http://51.79.208.146:61980/myplay/c_10004/index.m3u8
+Suria,http://50.7.161.82:8278/streams/d/Suria/playlist.m3u8
 Vasantham,http://51.79.208.146:61980/myplay/c_10005/index.m3u8
 Astro 小太阳,http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 Astro 全佳,http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8

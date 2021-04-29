@@ -123,8 +123,6 @@ C+頻道,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
 
 ✈新馬,#genre#
 無線星河台,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
-無線經典台,http://51.79.208.146:61980/myplay/c_58029/index.m3u8
-無線娛樂新聞台,http://51.79.208.146:61980/myplay/c_58030/index.m3u8
 天映頻道,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 天映經典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 Channel News Asia,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
@@ -132,15 +130,12 @@ Channel 5,http://185.180.221.194:8278/streams/d/Channel5/playlist.m3u8
 Channel 8,http://185.180.221.194:8278/streams/d/Channel8/playlist.m3u8
 Channel U,http://185.180.221.194:8278/streams/d/ChannelU/playlist.m3u8
 Suria,http://50.7.161.82:8278/streams/d/Suria/playlist.m3u8
-Vasantham,http://51.79.208.146:61980/myplay/c_10005/index.m3u8
-
 Astro 小太阳,http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 Astro 全佳,http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
 Astro 双星,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 Astro 欢喜,http://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
 Astro 华丽,http://185.180.221.194:8278/streams/d/Wlt/playlist.m3u8
 Astro AOD,http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
-Astro AEC,http://ts.lemmovie.com/e47300a4-e511-484f-b6dd-98de1483b71c.m3u8
 Astri Arena,http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
 Astro AURA,http://51.79.208.146:61980/myplay/c_58036/index.m3u8
 Astro AWANI,http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
@@ -151,9 +146,8 @@ Astro Hello,http://50.7.161.82:8278/streams/d/Hello/playlist.m3u8
 Astro Naura,http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
 Astro Oasis,http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 Astro Prima,http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
-Astro RIA,http://ts.lemmovie.com/0d98a346-7dc3-46ac-93b8-62a4b1e2c578.m3u8
+Astro RIA,http://live8.cdn.iptv8k.org:80/review_stream/riakbmm22/i.m3u8
 Astri Vaanavil,https://agsplayback01.astro.com.my:443/CH3/master_VAANGOSHOP5_04.m3u8
-Astro WARNA,http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
 
 ✈台湾,#genre#
 民視HD,rtmp://59.124.75.156/sat/tv051

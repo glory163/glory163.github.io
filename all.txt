@@ -104,16 +104,16 @@ CHC家庭影院,http://117.71.37.17/live.aishang.ctlcdn.com/00000110240323_1/pla
 澳亚衛視,http://mastvnet-hwcdn.utvlive.top/4rlff1m/1024/live.m3u8
 澳視衛星,http://61.244.22.4/ch3/ch3.live/index.m3u8
 澳門資訊,http://61.244.22.4/ch5/info_ch5.live/index.m3u8
-無線翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8#http://61.238.6.49:8000/bysid/1#http://hls.globaliptv.ml/tvbjade.php
-無線明珠台,https://cdn.hkdtmb.com/hls/84/index.m3u8#http://61.238.6.49:8001/bysid/2#http://hls.globaliptv.ml/tvbpearl.php
-無線J2台,https://cdn.hkdtmb.com/hls/82/index.m3u8#http://61.238.6.49:8001/bysid/82#http://hls.globaliptv.ml/tvbj2.php
-無線新聞台,http://livetv.dnsfor.me/channel.10.m3u8#http://61.238.6.49:8001/bysid/83#http://93.190.139.36:8278/streams/d/inews_twn/playlist.m3u8#https://bcovlive-a.akamaihd.net/92d1fb6f11854eafb1b183f2565558c9/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8#http://ohyeah.gear.host/hktvb.php?id=1
-無線財經資訊台,http://livetv.dnsfor.me/channel.11.m3u8#http://61.238.6.49:8001/bysid/85#http://ohyeah.gear.host/hktvb.php?id=2
-ViuTV6,http://61.238.6.49:8000/bysid/96#http://hls.globaliptv.ml/viu96.php
-ViuTV,https://cdn.hkdtmb.com/hls/99/index.m3u8#http://61.238.6.49:8000/bysid/99#http://93.190.139.36:8278/streams/d/viu_twn/playlist.m3u8#http://hls.globaliptv.ml/viu99.php
+無線翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8#http://61.238.6.49:8000/bysid/1#http://hls.globaliptv.ml/tvbjade.php#http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
+無線J2台,https://cdn.hkdtmb.com/hls/82/index.m3u8#http://61.238.6.49:8001/bysid/82#http://hls.globaliptv.ml/tvbj2.php#http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
+無線新聞台,http://livetv.dnsfor.me/channel.10.m3u8#http://61.238.6.49:8001/bysid/83#http://93.190.139.36:8278/streams/d/inews_twn/playlist.m3u8#http://ohyeah.gear.host/hktvb.php?id=1#http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
+無線明珠台,https://cdn.hkdtmb.com/hls/84/index.m3u8#http://61.238.6.49:8001/bysid/2#http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
+無線財經資訊台,http://livetv.dnsfor.me/channel.11.m3u8#http://61.238.6.49:8001/bysid/85#http://ohyeah.gear.host/hktvb.php?id=2#http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
+ViuTV6,http://61.238.6.49:8000/bysid/96#http://hls.globaliptv.ml/viu96.php#http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
+ViuTV,https://cdn.hkdtmb.com/hls/99/index.m3u8#http://61.238.6.49:8000/bysid/99#http://93.190.139.36:8278/streams/d/viu_twn/playlist.m3u8#http://hls.globaliptv.ml/viu99.php#http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
 有線直播新聞台,http://teslagram.com/live/channel_110.m3u8
-RTHK31,https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
-RTHK32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
+RTHK31,https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8#http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
+RTHK32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8#http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
 now直播台,http://livetv.dnsfor.me/channel.3.m3u8
 now新聞台,http://livetv.dnsfor.me/channel.4.m3u8
 nowSportsPrime,http://livetv.dnsfor.me/channel.12.m3u8
@@ -123,6 +123,7 @@ C+頻道,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
 
 ✈新馬,#genre#
 無線星河台,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+無線娛樂新聞台,https://bcovlive-a.akamaihd.net/92d1fb6f11854eafb1b183f2565558c9/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
 天映頻道,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 天映經典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 Channel News Asia,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
